@@ -1,0 +1,13 @@
+#summary Information about the defragmentation API and filesystems.
+
+= Introduction =
+
+The defragmentation API
+
+ * [http://technet.microsoft.com/en-us/sysinternals/bb897427.aspx Article from Mark Russinovich, the sysinternals Guru]
+
+
+NTFS filesystem
+
+ * [http://www.ntfs.com http://www.ntfs.com]
+ * [http://technet.microsoft.com/en-us/library/cc781134%28WS.10%29.aspx How NTFS works]
