@@ -7,5 +7,6 @@ Implementation of a flexible configurable file defragmentation tool. It supports
 = Details =
 
 More detailed information here:
+  * Source of [Information]
   * [Architecture]
   * [Filesystem] backend
